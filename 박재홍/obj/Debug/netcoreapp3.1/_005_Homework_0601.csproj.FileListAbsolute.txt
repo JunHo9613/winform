@@ -1,0 +1,13 @@
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\obj\Debug\netcoreapp3.1\_005_Homework_0601.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\obj\Debug\netcoreapp3.1\_005_Homework_0601.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\obj\Debug\netcoreapp3.1\_005_Homework_0601.AssemblyInfo.cs
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\obj\Debug\netcoreapp3.1\_005_Homework_0601.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\bin\Debug\netcoreapp3.1\_005_Homework_0601.exe
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\bin\Debug\netcoreapp3.1\_005_Homework_0601.deps.json
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\bin\Debug\netcoreapp3.1\_005_Homework_0601.runtimeconfig.json
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\bin\Debug\netcoreapp3.1\_005_Homework_0601.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\bin\Debug\netcoreapp3.1\_005_Homework_0601.dll
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\bin\Debug\netcoreapp3.1\_005_Homework_0601.pdb
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\obj\Debug\netcoreapp3.1\_005_Homework_0601.dll
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\obj\Debug\netcoreapp3.1\_005_Homework_0601.pdb
+D:\_01_CSharp\lec\_02_CSharpGrammar\_005_Homework_0601\obj\Debug\netcoreapp3.1\_005_Homework_0601.genruntimeconfig.cache
