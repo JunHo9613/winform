@@ -1,0 +1,7 @@
+D:\Lecture\_01_CSharp\lec\Homework\2021_05\bin\Debug\2021_05.exe.config
+D:\Lecture\_01_CSharp\lec\Homework\2021_05\bin\Debug\2021_05.exe
+D:\Lecture\_01_CSharp\lec\Homework\2021_05\bin\Debug\2021_05.pdb
+D:\Lecture\_01_CSharp\lec\Homework\2021_05\obj\Debug\2021_0602.csprojAssemblyReference.cache
+D:\Lecture\_01_CSharp\lec\Homework\2021_05\obj\Debug\2021_0602.csproj.CoreCompileInputs.cache
+D:\Lecture\_01_CSharp\lec\Homework\2021_05\obj\Debug\2021_05.exe
+D:\Lecture\_01_CSharp\lec\Homework\2021_05\obj\Debug\2021_05.pdb

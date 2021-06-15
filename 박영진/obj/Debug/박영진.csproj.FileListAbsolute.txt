@@ -1,0 +1,7 @@
+D:\Lecture\_01_CSharp\homework\2021_06_02_homework\박영진\bin\Debug\2021_05.exe.config
+D:\Lecture\_01_CSharp\homework\2021_06_02_homework\박영진\bin\Debug\2021_05.exe
+D:\Lecture\_01_CSharp\homework\2021_06_02_homework\박영진\bin\Debug\2021_05.pdb
+D:\Lecture\_01_CSharp\homework\2021_06_02_homework\박영진\obj\Debug\박영진.csprojAssemblyReference.cache
+D:\Lecture\_01_CSharp\homework\2021_06_02_homework\박영진\obj\Debug\박영진.csproj.CoreCompileInputs.cache
+D:\Lecture\_01_CSharp\homework\2021_06_02_homework\박영진\obj\Debug\2021_05.exe
+D:\Lecture\_01_CSharp\homework\2021_06_02_homework\박영진\obj\Debug\2021_05.pdb

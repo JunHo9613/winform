@@ -1,0 +1,7 @@
+D:\김민혁\Lecture\_01_CSharp\lec\HomeWork\_21_06_02\obj\Debug\_21_06_02.csprojAssemblyReference.cache
+D:\김민혁\Lecture\_01_CSharp\lec\HomeWork\_21_06_02\obj\Debug\_21_06_02.csproj.CoreCompileInputs.cache
+D:\김민혁\Lecture\_01_CSharp\lec\HomeWork\_21_06_02\bin\Debug\_21_06_02.exe.config
+D:\김민혁\Lecture\_01_CSharp\lec\HomeWork\_21_06_02\bin\Debug\_21_06_02.exe
+D:\김민혁\Lecture\_01_CSharp\lec\HomeWork\_21_06_02\bin\Debug\_21_06_02.pdb
+D:\김민혁\Lecture\_01_CSharp\lec\HomeWork\_21_06_02\obj\Debug\_21_06_02.exe
+D:\김민혁\Lecture\_01_CSharp\lec\HomeWork\_21_06_02\obj\Debug\_21_06_02.pdb
