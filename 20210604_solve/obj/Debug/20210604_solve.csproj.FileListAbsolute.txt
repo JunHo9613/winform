@@ -1,0 +1,7 @@
+C:\Users\bitcamp\source\repos\02Chsrp\20210604_solve\obj\Debug\20210604_solve.csprojAssemblyReference.cache
+C:\Users\bitcamp\source\repos\02Chsrp\20210604_solve\obj\Debug\20210604_solve.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\source\repos\02Chsrp\20210604_solve\bin\Debug\20210604_solve.exe.config
+C:\Users\bitcamp\source\repos\02Chsrp\20210604_solve\bin\Debug\20210604_solve.exe
+C:\Users\bitcamp\source\repos\02Chsrp\20210604_solve\bin\Debug\20210604_solve.pdb
+C:\Users\bitcamp\source\repos\02Chsrp\20210604_solve\obj\Debug\20210604_solve.exe
+C:\Users\bitcamp\source\repos\02Chsrp\20210604_solve\obj\Debug\20210604_solve.pdb

@@ -1,0 +1,14 @@
+C:\Lecture\_01_CSharp\HomeWork\06_01_HomeWork\06_01_HomeWork\bin\Debug\06_01_HomeWork.exe.config
+C:\Lecture\_01_CSharp\HomeWork\06_01_HomeWork\06_01_HomeWork\bin\Debug\06_01_HomeWork.exe
+C:\Lecture\_01_CSharp\HomeWork\06_01_HomeWork\06_01_HomeWork\bin\Debug\06_01_HomeWork.pdb
+C:\Lecture\_01_CSharp\HomeWork\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.csprojAssemblyReference.cache
+C:\Lecture\_01_CSharp\HomeWork\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.csproj.CoreCompileInputs.cache
+C:\Lecture\_01_CSharp\HomeWork\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.exe
+C:\Lecture\_01_CSharp\HomeWork\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.pdb
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\06_01_HomeWork\06_01_HomeWork\bin\Debug\06_01_HomeWork.exe.config
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\06_01_HomeWork\06_01_HomeWork\bin\Debug\06_01_HomeWork.exe
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\06_01_HomeWork\06_01_HomeWork\bin\Debug\06_01_HomeWork.pdb
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.csprojAssemblyReference.cache
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.csproj.CoreCompileInputs.cache
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.exe
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\06_01_HomeWork\06_01_HomeWork\obj\Debug\06_01_HomeWork.pdb

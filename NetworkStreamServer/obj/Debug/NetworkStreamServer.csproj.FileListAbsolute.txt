@@ -1,0 +1,7 @@
+C:\Users\bitcamp\source\repos\02Chsrp\NetworkStreamServer\bin\Debug\NetworkStreamServer.exe.config
+C:\Users\bitcamp\source\repos\02Chsrp\NetworkStreamServer\bin\Debug\NetworkStreamServer.exe
+C:\Users\bitcamp\source\repos\02Chsrp\NetworkStreamServer\bin\Debug\NetworkStreamServer.pdb
+C:\Users\bitcamp\source\repos\02Chsrp\NetworkStreamServer\obj\Debug\NetworkStreamServer.csprojAssemblyReference.cache
+C:\Users\bitcamp\source\repos\02Chsrp\NetworkStreamServer\obj\Debug\NetworkStreamServer.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\source\repos\02Chsrp\NetworkStreamServer\obj\Debug\NetworkStreamServer.exe
+C:\Users\bitcamp\source\repos\02Chsrp\NetworkStreamServer\obj\Debug\NetworkStreamServer.pdb

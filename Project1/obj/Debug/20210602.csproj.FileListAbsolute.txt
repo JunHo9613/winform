@@ -1,0 +1,7 @@
+C:\Users\bitcamp\source\repos\02Chsrp\Project1\obj\Debug\20210602.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\source\repos\02Chsrp\Project1\bin\Debug\Project1.exe.config
+C:\Users\bitcamp\source\repos\02Chsrp\Project1\bin\Debug\Project1.exe
+C:\Users\bitcamp\source\repos\02Chsrp\Project1\bin\Debug\Project1.pdb
+C:\Users\bitcamp\source\repos\02Chsrp\Project1\obj\Debug\Project1.exe
+C:\Users\bitcamp\source\repos\02Chsrp\Project1\obj\Debug\Project1.pdb
+C:\Users\bitcamp\source\repos\02Chsrp\Project1\obj\Debug\20210602.csprojAssemblyReference.cache
