@@ -1,0 +1,13 @@
+C:\Users\bitcamp\Desktop\homework0601\homework0601\bin\Debug\homework0601.exe.config
+C:\Users\bitcamp\Desktop\homework0601\homework0601\bin\Debug\homework0601.exe
+C:\Users\bitcamp\Desktop\homework0601\homework0601\bin\Debug\homework0601.pdb
+C:\Users\bitcamp\Desktop\homework0601\homework0601\obj\Debug\homework0601.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\homework0601\homework0601\obj\Debug\homework0601.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\homework0601\homework0601\obj\Debug\homework0601.exe
+C:\Users\bitcamp\Desktop\homework0601\homework0601\obj\Debug\homework0601.pdb
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\homework0601김유림\homework0601\bin\Debug\homework0601.exe.config
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\homework0601김유림\homework0601\bin\Debug\homework0601.exe
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\homework0601김유림\homework0601\bin\Debug\homework0601.pdb
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\homework0601김유림\homework0601\obj\Debug\homework0601.csproj.CoreCompileInputs.cache
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\homework0601김유림\homework0601\obj\Debug\homework0601.exe
+D:\Lecture\_01_CSharp\homework\2021_06_01_homework\homework0601김유림\homework0601\obj\Debug\homework0601.pdb

@@ -1,0 +1,6 @@
+C:\Users\bitcamp\Desktop\homework0601\homework0601_2\bin\Debug\homework0601_2.exe.config
+C:\Users\bitcamp\Desktop\homework0601\homework0601_2\bin\Debug\homework0601_2.exe
+C:\Users\bitcamp\Desktop\homework0601\homework0601_2\bin\Debug\homework0601_2.pdb
+C:\Users\bitcamp\Desktop\homework0601\homework0601_2\obj\Debug\homework0601_2.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\homework0601\homework0601_2\obj\Debug\homework0601_2.exe
+C:\Users\bitcamp\Desktop\homework0601\homework0601_2\obj\Debug\homework0601_2.pdb
