@@ -1,0 +1,14 @@
+D:\Lecture\_01_Csharp\lec\_02_CSharpGrammar\_01_DataType\BackEnd\bin\Debug\BackEnd.exe.config
+D:\Lecture\_01_Csharp\lec\_02_CSharpGrammar\_01_DataType\BackEnd\bin\Debug\BackEnd.exe
+D:\Lecture\_01_Csharp\lec\_02_CSharpGrammar\_01_DataType\BackEnd\bin\Debug\BackEnd.pdb
+D:\Lecture\_01_Csharp\lec\_02_CSharpGrammar\_01_DataType\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+D:\Lecture\_01_Csharp\lec\_02_CSharpGrammar\_01_DataType\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Lecture\_01_Csharp\lec\_02_CSharpGrammar\_01_DataType\BackEnd\obj\Debug\BackEnd.exe
+D:\Lecture\_01_Csharp\lec\_02_CSharpGrammar\_01_DataType\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\BackEnd\bin\Debug\BackEnd.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\BackEnd\bin\Debug\BackEnd.exe
+C:\Users\user\Documents\카카오톡 받은 파일\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BackEnd\obj\Debug\BackEnd.exe
+C:\Users\user\Documents\카카오톡 받은 파일\BackEnd\obj\Debug\BackEnd.pdb

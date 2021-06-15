@@ -1,0 +1,14 @@
+C:\Users\HM123\Desktop\Company\Company\bin\Debug\Company.exe.config
+C:\Users\HM123\Desktop\Company\Company\bin\Debug\Company.exe
+C:\Users\HM123\Desktop\Company\Company\bin\Debug\Company.pdb
+C:\Users\HM123\Desktop\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+C:\Users\HM123\Desktop\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\HM123\Desktop\Company\Company\obj\Debug\Company.exe
+C:\Users\HM123\Desktop\Company\Company\obj\Debug\Company.pdb
+C:\Users\bitcamp\Desktop\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\Company\Company\obj\Debug\Company.exe
+C:\Users\bitcamp\Desktop\Company\Company\obj\Debug\Company.pdb
+C:\Users\bitcamp\Desktop\Company\Company\bin\Debug\Company.exe.config
+C:\Users\bitcamp\Desktop\Company\Company\bin\Debug\Company.exe
+C:\Users\bitcamp\Desktop\Company\Company\bin\Debug\Company.pdb
