@@ -1,0 +1,16 @@
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\bin\Debug\net5.0\Calendar.exe
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\bin\Debug\net5.0\Calendar.deps.json
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\bin\Debug\net5.0\Calendar.runtimeconfig.json
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\bin\Debug\net5.0\Calendar.runtimeconfig.dev.json
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\bin\Debug\net5.0\Calendar.dll
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\bin\Debug\net5.0\ref\Calendar.dll
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\bin\Debug\net5.0\Calendar.pdb
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.csprojAssemblyReference.cache
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.AssemblyInfo.cs
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.dll
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\ref\Calendar.dll
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.pdb
+C:\Users\bitcamp\source\repos\Project1\ConsoleApp2\obj\Debug\net5.0\Calendar.genruntimeconfig.cache

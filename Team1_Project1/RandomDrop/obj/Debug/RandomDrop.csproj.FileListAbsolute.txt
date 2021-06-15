@@ -1,0 +1,7 @@
+C:\Users\bitcamp\source\repos\Team1_Project1\RandomDrop\bin\Debug\RandomDrop.exe.config
+C:\Users\bitcamp\source\repos\Team1_Project1\RandomDrop\bin\Debug\RandomDrop.exe
+C:\Users\bitcamp\source\repos\Team1_Project1\RandomDrop\bin\Debug\RandomDrop.pdb
+C:\Users\bitcamp\source\repos\Team1_Project1\RandomDrop\obj\Debug\RandomDrop.csprojAssemblyReference.cache
+C:\Users\bitcamp\source\repos\Team1_Project1\RandomDrop\obj\Debug\RandomDrop.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\source\repos\Team1_Project1\RandomDrop\obj\Debug\RandomDrop.exe
+C:\Users\bitcamp\source\repos\Team1_Project1\RandomDrop\obj\Debug\RandomDrop.pdb
